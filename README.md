@@ -33,29 +33,29 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 * Planear una reunión kick - off
 * Identificar hábitos financieros y preferencias en plataformas digitales de la generación millenial.
 
-# Etapa Previa:
-
 ## A. Recolección de Información Previa (Fuente Latinia)
 
-    "Los Millennials supondrán el 75% de la fuerza laboral en el mundo"
+# Etapa Previa:* Identificar los stakeholders del proyecto  
 
-    "El 40% de los millennials nunca han pisado una sucursal bancaria y la mayoría no está familiarizada con la misma"
+   "Los Millennials supondrán el 75% de la fuerza laboral en el mundo"
 
-    "El 53% no piensa que su banco sea diferente al de los demás"
+   "El 40% de los millennials nunca han pisado una sucursal bancaria y la mayoría no está familiarizada con la misma"
 
-    "No piensan en pensionarse y prefieren usar el dinero para viajar en lugar de ahorrar"
+   "El 53% no piensa que su banco sea diferente al de los demás"
+
+   "No piensan en pensionarse y prefieren usar el dinero para viajar en lugar de ahorrar"
 
 ## B. Nuestros  Stakeholders
 
-    ![Stakeholders](assets/images/stackholders.png)
+   ![Stakeholders](assets/images/stackholders.png)
 
 ## C. Reunión Kick-Off
 
-    * Preguntas Cliente Interno:
+   * Preguntas Cliente Interno:
 
-      ![Preguntas](assets/images/preguntas.png)
+     ![Preguntas](assets/images/preguntas.png)
 
-    * Business Model Canvas:
+   * Business Model Canvas:
 
     ![BMC](assets/images/bmc.png)    
 
