@@ -57,7 +57,29 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 
    * Business Model Canvas:
 
-    ![BMC](assets/images/bmc.png)    
+     ![BMC](assets/images/bmc.png)
+
+   * Objetivo de BANMILL:
+
+     ![Objetivo](assets/images/objetivo.png)
+
+   * Beneficios que ofrece BANMILL para El Banco del País:
+
+     ![Beneficios](assets/images/beneficios.png)  
+
+   * Alcance:
+
+     ![Alcance](assets/images/alcance.png)
+
+   * Principales Riesgos:
+
+     ![Riesgos](assets/images/riesgos.png)
+
+## C. Plan de Investigación
+
+   * Objetivos:
+
+     ![Preguntas](assets/images/preguntas.png)
 
 # Etapas DCU (Diseño Centrado en el Usuario):
 
