@@ -138,7 +138,7 @@ Es posible que la información otorgada por los bancos no sea recibida en este c
 
 ### 4. Definición del User persona:
 
-      ![UserPerson](assets/images/user.png)
+   ![UserPerson](assets/images/user.png)
 
 ## C. Prototipado
 
