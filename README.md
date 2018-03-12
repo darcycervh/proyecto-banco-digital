@@ -150,7 +150,7 @@ Es posible que la información otorgada por los bancos no sea recibida en este c
 
     * Prototipo cuando se crea cuenta por primera vez: [Ver prototipo](https://marvelapp.com/c52a8a9)
 
-    * Prototipo cuando cuenta con una cuenta en Banmill:
+    * Prototipo cuando cuenta con una cuenta en Banmill: [Ver prototipo](https://marvelapp.com/30ibed7/screen/39608184)
 
 ## D. Testing
 
@@ -180,8 +180,8 @@ si se quiere afiliar más tarjetas en la app, preferiria que eso sea una opción
 
 ## Presentación Final del Prototipo:
 
-* Prototipo cuando se crea por primera vez una cuenta en Banmill:
+* Prototipo cuando se crea por primera vez una cuenta en Banmill y mostramos la iteración con el menú
 [Ver prototipo](https://marvelapp.com/c52a8a9)
 
-* Prototipo cuando ya tiene una cuenta registrada en Banmill:
-[Ver prototipo]()
+* Prototipo cuando ya tiene una cuenta registrada en Banmill y mostramos la iteración con el Perfil de Consumo
+[Ver prototipo](https://marvelapp.com/14a50fcg/screen/39607823)
