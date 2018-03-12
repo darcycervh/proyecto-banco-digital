@@ -47,17 +47,17 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 
 ## B. Nuestros  Stakeholders
 
-    ![](assets/images/stackholders.png)
+    ![Stakeholders](assets/images/stackholders.png)
 
 ## C. Reunión Kick-Off
 
     * Preguntas Cliente Interno:
 
-      ![](assets/images/preguntas.png)
+      ![Preguntas](assets/images/preguntas.png)
 
     * Business Model Canvas:
 
-      ![](assets/images/preguntas.png)    
+      ![BMC](assets/images/preguntas.png)    
 
 # Etapas DCU (Diseño Centrado en el Usuario):
 
