@@ -3,6 +3,7 @@
 Banmill es una propuesta de un banco 100% digital, permitiendo al usuario realizar las mismas operaciones que realiza en un banco presencial, pero menos complicado y más sencillo.
 
 ![Logo Banmill](assets/images/banmill.png)
+
 ![Página de inicio a la app Banmill](assets/images/home.png)
 
 # Desarrollado para:
@@ -34,7 +35,7 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 
 # Etapas DCU (Diseño Centrado en el Usuario):
 
-### A. Descubrimiento e Investigación
+## A. Descubrimiento e Investigación
 
 Actividades:
 
@@ -48,7 +49,7 @@ Actividades:
 
 3. Recolección de datos de la Encuesta a través de Typeform:
 
-### B. Síntesis y Definición
+## B. Síntesis y Definición
 
 Actividades:
 
@@ -66,3 +67,40 @@ El procedimiento que se siguió a través del diagrama de afinidad fué:
     * Otros.
 
 ![Diagrama de afinidad: Paso 2](assets/images/diagrama.jpg)
+
+### 3. Elección del problema
+
+El problema que se identificó fue: La necesidad de contar con una atención amigable y empática en todo momento y el tiempo de espera para poder realizar operaciones bancarias.
+
+Es posible que la información otorgada por los bancos no sea recibida en este caso millenials, de la forma en que se espera, esperando ellos que el banco pueda absolver sus dudas al momento, considerando también que las operaciones bancarias que en general se hacen de manera presencial, resulta complicado pues es mucho el tiempo de espera para poder realizar alguna operación, en especial fin de mes y quincena.
+
+### 4. Definición del User persona:
+
+## C. Prototipado
+
+### Actividades:
+
+### 1. Realización del Prototipo 
+
+* Se utilizó Figma para el desarrollo del flujo de diseño y Marvel como herramiento de prototipado.
+
+    * Prototipo cuando se crea cuenta por primera vez: [Ver prototipo](https://marvelapp.com/c52a8a9)
+
+    * Prototipo cuando cuenta con una cuenta en Banmill: 
+
+## D. Testing
+
+### Actividades:
+
+**Testing 01**
+
+
+
+
+## Presentación Final del Prototipo:
+
+* Prototipo cuando se crea por primera vez una cuenta en Banmill:
+[Ver prototipo](https://marvelapp.com/c52a8a9)
+
+* Prototipo cuando ya tiene una cuenta registrada en Banmill:
+[Ver prototipo]()
