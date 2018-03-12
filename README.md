@@ -33,9 +33,13 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 * Planear una reunión kick - off
 * Identificar hábitos financieros y preferencias en plataformas digitales de la generación millenial.
 
-# Etapa Previa:
-
 ## A. Recolección de Información Previa (Fuente Latinia)
+
+# Etapa Previa:* Identificar los stakeholders del proyecto
+* Planear una reunión kick - off
+* "Los
+
+    
 
     "Los Millennials supondrán el 75% de la fuerza laboral en el mundo"
 
