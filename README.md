@@ -151,9 +151,26 @@ Es posible que la información otorgada por los bancos no sea recibida en este c
 ### Actividades:
 
 **Testing 01**
+* Cuando quiere "acceder a su cuenta" no entiende porque debe poner su número de tarjeta, porque tendria más sentido si se le pidiera alguna de las cosas que se le pidió durante el registro.
 
+* ¿Qué sucedería si se me pierde el teléfono?, ¿O se cambiaba de número? preferiría que le piedesen en el registro y el login, su correo electrónico y la contraseña o su número de dni y su contraseña.
 
+* En el botón de "acceder a mi cuenta" dice "accesar".
 
+* No entiende lo de saldo disponible.
+
+* Le pareció muy interesante el perfil de consumo y lo ve muy útil.
+
+* Mejorar la paleta de colores.
+
+* Hacer la pantalla principal más amigable.
+
+* La parte de validación del registro lo ve muy amigable.
+si se quiere afiliar más tarjetas en la app, preferiria que eso sea una opción que esté disponible cuando haya ingresado ya a la app y no al principio porque lo ve y siente muy confuso.
+
+* Al registrar el número de identidad que no sea solo para registrar el documento de identidad nacional o DNI por sus siglas, sino también abierta a todo público.
+
+* no importa sino tiene tarjeta, porque mientras menos cosas tenga, es más rápido y útil, y se maneje todo por la app le resulta muy útil
 
 ## Presentación Final del Prototipo:
 
