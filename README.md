@@ -1,6 +1,6 @@
 # Banmill
 
-Banmill es una propuesta de un banco 100% digital, permitiendo al usuario realizar las mismas operaciones que realiza en un banco presencial, pero menos complicado y más sencillo.
+Banmill es una propuesta de un banco 100% digital, permitiendo al usuario realizar las mismas operaciones que realiza en un banco presencial, mediante un proceso menos complicado y más agradable
 
 ![Logo Banmill](assets/images/banmill.png)
 
@@ -32,6 +32,32 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 * Identificar los stakeholders del proyecto
 * Planear una reunión kick - off
 * Identificar hábitos financieros y preferencias en plataformas digitales de la generación millenial.
+
+# Etapa Previa:
+
+## A. Recolección de Información Previa (Fuente Latinia)
+
+    "Los Millennials supondrán el 75% de la fuerza laboral en el mundo"
+
+    "El 40% de los millennials nunca han pisado una sucursal bancaria y la mayoría no está familiarizada con la misma"
+
+    "El 53% no piensa que su banco sea diferente al de los demás"
+
+    "No piensan en pensionarse y prefieren usar el dinero para viajar en lugar de ahorrar"
+
+## B. Nuestros  Stakeholders
+
+    ![](assets/images/stackholders.png)
+
+## C. Reunión Kick-Off
+
+    * Preguntas Cliente Interno:
+
+      ![](assets/images/preguntas.png)
+
+    * Business Model Canvas:
+
+      ![](assets/images/preguntas.png)    
 
 # Etapas DCU (Diseño Centrado en el Usuario):
 
@@ -80,13 +106,13 @@ Es posible que la información otorgada por los bancos no sea recibida en este c
 
 ### Actividades:
 
-### 1. Realización del Prototipo 
+### 1. Realización del Prototipo
 
 * Se utilizó Figma para el desarrollo del flujo de diseño y Marvel como herramiento de prototipado.
 
     * Prototipo cuando se crea cuenta por primera vez: [Ver prototipo](https://marvelapp.com/c52a8a9)
 
-    * Prototipo cuando cuenta con una cuenta en Banmill: 
+    * Prototipo cuando cuenta con una cuenta en Banmill:
 
 ## D. Testing
 
