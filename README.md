@@ -107,6 +107,10 @@ Actividades:
 
 3. Recolección de datos de la Encuesta a través de Typeform:
 
+   ![Encuesta](assets/images/encuesta1.png)
+
+   ![Encuesta](assets/images/encuesta2.png)
+
 ## B. Síntesis y Definición
 
 Actividades:
@@ -133,6 +137,8 @@ El problema que se identificó fue: La necesidad de contar con una atención ami
 Es posible que la información otorgada por los bancos no sea recibida en este caso millenials, de la forma en que se espera, esperando ellos que el banco pueda absolver sus dudas al momento, considerando también que las operaciones bancarias que en general se hacen de manera presencial, resulta complicado pues es mucho el tiempo de espera para poder realizar alguna operación, en especial fin de mes y quincena.
 
 ### 4. Definición del User persona:
+
+      ![UserPerson](assets/images/user.png)
 
 ## C. Prototipado
 
