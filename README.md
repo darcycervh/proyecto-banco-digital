@@ -33,9 +33,9 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 * Planear una reunión kick - off
 * Identificar hábitos financieros y preferencias en plataformas digitales de la generación millenial.
 
-## A. Recolección de Información Previa (Fuente Latinia)
+# Etapa Previa:
 
-# Etapa Previa:* Identificar los stakeholders del proyecto  
+## A. Recolección de Información Previa (Fuente Latinia)
 
    "Los Millennials supondrán el 75% de la fuerza laboral en el mundo"
 
@@ -75,11 +75,21 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 
      ![Riesgos](assets/images/riesgos.png)
 
-## C. Plan de Investigación
+## D. Plan de Investigación
 
    * Objetivos:
 
-     ![Preguntas](assets/images/preguntas.png)
+     ![ObjetivosPI](assets/images/objetivoPV.png)
+
+   * Herramientas a utilizar:
+
+     ![Herramientas](assets/images/herramientas.png)
+
+   * Actividades a Realizar:
+
+     ![Actividades](assets/images/actividades.png)
+
+     ![ActividadesFinales](assets/images/conjuntodeactividades.png)
 
 # Etapas DCU (Diseño Centrado en el Usuario):
 
