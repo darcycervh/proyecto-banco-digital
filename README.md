@@ -57,7 +57,7 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 
     * Business Model Canvas:
 
-      ![BMC](assets/images/preguntas.png)    
+    ![BMC](assets/images/bmc.png)    
 
 # Etapas DCU (Diseño Centrado en el Usuario):
 
