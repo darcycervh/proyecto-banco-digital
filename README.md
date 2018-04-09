@@ -4,7 +4,7 @@ Banmill es una propuesta de un banco 100% digital, permitiendo al usuario realiz
 
 ![Logo Banmill](assets/images/banmill.png)
 
-![Página de inicio a la app Banmill](assets/images/home.png)
+![home](https://user-images.githubusercontent.com/32311166/38524508-73a12496-3c14-11e8-93ed-f65a2dd33efc.png)
 
 # Desarrollado para:
 
@@ -178,7 +178,7 @@ si se quiere afiliar más tarjetas en la app, preferiria que eso sea una opción
 
 * no importa sino tiene tarjeta, porque mientras menos cosas tenga, es más rápido y útil, y se maneje todo por la app le resulta muy útil
 
-## Presentación Final del Prototipo:
+## Presentacion Final del Prototipo:
 
 * Prototipo cuando se crea por primera vez una cuenta en Banmill y mostramos la iteración con el menú
 [Ver prototipo](https://marvelapp.com/c52a8a9)
