@@ -2,9 +2,10 @@
 
 Banmill es una propuesta de un banco 100% digital, permitiendo al usuario realizar las mismas operaciones que realiza en un banco presencial, mediante un proceso menos complicado y más agradable
 
-![Logo Banmill](assets/images/banmill.png)
+
 
 ![home](https://user-images.githubusercontent.com/32311166/38524508-73a12496-3c14-11e8-93ed-f65a2dd33efc.png)
+
 
 # Desarrollado para:
 
