@@ -92,7 +92,7 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 
      ![ActividadesFinales](assets/images/conjuntodeactividades.png)
 
-# Etapas DCU (Diseño Centrado en el Usuario):
+# Etapas DCU (Diseno Centrado en el Usuario):
 
 ## A. Descubrimiento e Investigación
 
